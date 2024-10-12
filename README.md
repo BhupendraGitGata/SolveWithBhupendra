@@ -15,3 +15,7 @@ Backend Skills        -   MS SQL | Oracle(SQL+PLSQL) | Postgres |
 IDE Tools             -   Visual Studio | VS Code | SQL Server Management Studio | SQLDeveloper | IIS Manager
 Version Control Tools -   Team Foundation Server | Tortoise SVN | GIT | GITHUB | 
 Interpersonal Skills  -   Communication | Team Building | Leadership | 
+
+Contact Details :-
+Mobile Number - +91 98334 86870
+Email - bhupendra.dhande@gmail.com | bhupendra.dhande1981@rediffmail.com
